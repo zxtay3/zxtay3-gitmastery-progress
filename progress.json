@@ -1,5 +1,39 @@
 [
   {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1786719814.818235,
+    "completed_at": 1786719818.756382,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1786770847.31736,
+    "completed_at": 1786770850.786974,
+    "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1786718856.380532,
+    "completed_at": 1786718859.989494,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1786720649.628722,
+    "completed_at": 1786720653.224295,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
+    ],
+    "status": "Completed"
+  },
+  {
     "exercise_name": "under-control",
     "started_at": 1786716627.80392,
     "completed_at": 1786716631.130929,
@@ -36,37 +70,12 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "stage-fright",
-    "started_at": 1786718856.380532,
-    "completed_at": 1786718859.989494,
+    "exercise_name": "remote-control",
+    "started_at": 1786788403.972056,
+    "completed_at": 1786788443.827081,
     "comments": [
-      "Great work! You have successfully checked in all the actors!"
+      "That is not the right Github url!"
     ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "grocery-shopping",
-    "started_at": 1786719814.818235,
-    "completed_at": 1786719818.756382,
-    "comments": [
-      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "staging-intervention",
-    "started_at": 1786720649.628722,
-    "completed_at": 1786720653.224295,
-    "comments": [
-      "Great work! You have successfully fixed the attendance system!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "log-and-order",
-    "started_at": 1786770847.31736,
-    "completed_at": 1786770850.786974,
-    "comments": [],
-    "status": "Completed"
+    "status": "Incomplete"
   }
 ]
