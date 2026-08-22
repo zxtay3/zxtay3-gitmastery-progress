@@ -320,5 +320,14 @@
       "Great work comparing the branches successfully!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "conflict-mediator",
+    "started_at": 1787390466.527738,
+    "completed_at": 1787390470.006624,
+    "comments": [
+      "Great work resolving the merge conflict!"
+    ],
+    "status": "Completed"
   }
 ]
